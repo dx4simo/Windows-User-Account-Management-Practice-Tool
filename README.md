@@ -6,12 +6,6 @@ This project was developed as a learning exercise to understand how Windows user
 
 ---
 
-## Note
-
-Some of my older projects were transferred from my previous GitHub account to this new profile because the old account could not be recovered.
-
----
-
 ## Disclaimer
 
 This project is for educational purposes only.
