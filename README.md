@@ -1,32 +1,91 @@
-# Windows-User-Changer
-Change Password of the user without the old one!
+# Windows User Account Management Practice
+
+A small Windows command-line practice project created to learn basic user account management concepts in a local Windows environment.
+
+This project was developed as a learning exercise to understand how Windows user administration works, including working with command-line commands, permissions and local system management.
+
+---
+
+## Note
+
+Some of my older projects were transferred from my previous GitHub account to this new profile because the old account could not be recovered.
+
+---
+
+## Disclaimer
+
+This project is for educational purposes only.
+
+It must only be used on your own computer, in a personal lab environment, or on systems where you have explicit permission and administrator rights.
+
+Do not use this project on devices or accounts that you do not own or manage.
+
+---
 
 ## Features
 
-- Change Password without the old one!
+* Practice with Windows user account management
+* Basic command-line interaction
+* Local user administration in an authorized environment
+* Simple script structure
+* Practical learning about Windows permissions and system administration
 
+---
 
+## Skills Practiced
+
+Through this project, I practiced:
+
+* Windows command-line basics
+* User account management concepts
+* Working with administrator permissions
+* Basic scripting logic
+* Understanding responsible system administration
+* Writing small tools for learning purposes
+
+---
+
+## Technologies Used
+
+* Windows Command Line
+* Batch scripting / PowerShell
+* Basic system administration commands
+
+---
+
+## Usage
+
+This project should only be tested in a local lab environment with administrator permission.
+
+---
 
 ## Screenshots
 
-![App Screenshot](https://github.com/user-attachments/assets/1860a44f-31ca-4802-b6dc-ee5164672a32)
+Add your screenshots inside the `screenshots` folder and update the path below:
 
+![App Screenshot](screenshots/screen1.png)
 
-## Authors
+---
 
-- [@dx4simo](https://github.com/dx4simo)
+## What I Learned
 
+This project helped me understand how local Windows user account management works and why administrator permissions are important.
 
-## Contributing
+It also helped me learn more about responsible use of system administration tools and the importance of working only in authorized environments.
 
-Contributions are always welcome!
+---
 
-See `contributing.md` for ways to get started.
+## Future Improvements
 
-Please adhere to this project's `code of conduct`.
+* Improve documentation
+* Add clearer error messages
+* Add permission checks
+* Add safer user prompts
+* Keep the project focused on educational and authorized use only
 
+---
 
-## Feedback
+## Author
 
-If you have any feedback, please reach out to us at +201061508926
-
+**Islam Albadawy**
+Aspiring Software Developer 
